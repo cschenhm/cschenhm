@@ -1,4 +1,10 @@
 ### Hi there 👋
+-  I am a Master student at College of Electronic Information Engineering, Shenyang Aerospace University, supervised by Prof. Yufeng Li.
+-  I am currently working on Deep Deraining.
+### Academic Services
+- Conference Reviewer
+  - ECCV 2024 
+  - ACMMM 2024 
 
 <!--
 **cschenhm/cschenhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
