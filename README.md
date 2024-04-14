@@ -1,6 +1,6 @@
 ### Hi there 👋
 -  I am a Master student at College of Electronic Information Engineering, Shenyang Aerospace University, supervised by Prof. Yufeng Li.
--  I am currently working on Deep Deraining.
+-  I am currently working on Image Deraining.
 ### Academic Services
 - Conference Reviewer
   - ECCV 2024 
