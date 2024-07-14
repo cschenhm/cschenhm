@@ -1,5 +1,5 @@
 ### Hi there 👋
--  I am a Master student at College of Electronic Information Engineering, Shenyang Aerospace University, supervised by Prof. Yufeng Li.
+-  I am a Ph.D. student in Computer Science and Technology at Dalian Maritime University, supervised by Prof. Xianping Fu.
 -  I am currently working on Image Deraining.
 ### Academic Services
 - Conference Reviewer
