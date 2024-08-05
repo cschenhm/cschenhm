@@ -4,7 +4,7 @@
 ### Academic Services
 - Conference Reviewer
   - ECCV 2024 
-  - ACMMM 2024
+  - ACM MM 2024
 - Journal Reviewer
   - Knowledge-Based Systems
 
