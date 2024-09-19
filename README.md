@@ -7,6 +7,7 @@
   - ACM MM 2024
 - Journal Reviewer
   - Knowledge-Based Systems
+  - IEEE Geoscience and Remote Sensing Letters
 
 <!--
 **cschenhm/cschenhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
