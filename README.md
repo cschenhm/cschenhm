@@ -6,6 +6,7 @@
   - ECCV 2024 
   - ACM MM 2024
 - Journal Reviewer
+  - IEEE Transactions on Geoscience and Remote Sensing
   - Knowledge-Based Systems
   - IEEE Geoscience and Remote Sensing Letters
 
