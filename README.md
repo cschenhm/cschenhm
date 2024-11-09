@@ -3,6 +3,7 @@
 -  I am currently working on Image Deraining.
 ### Academic Services
 - Conference Reviewer
+  - CVPR 2025
   - ICLR 2025
   - ECCV 2024
   - ACM MM 2024
