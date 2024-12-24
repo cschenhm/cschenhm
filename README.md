@@ -5,9 +5,9 @@
 - Conference Reviewer
   - CVPR 2025
   - ICLR 2025
-  - IJCNN 2025
   - ECCV 2024
   - ACM MM 2024
+  - IJCNN 2025
 - Journal Reviewer
   - IEEE Transactions on Geoscience and Remote Sensing
   - IEEE Geoscience and Remote Sensing Letters
