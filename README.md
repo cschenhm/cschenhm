@@ -5,6 +5,7 @@
 - Conference Reviewer
   - CVPR 2025
   - ICLR 2025
+  - IJCNN 2025
   - ECCV 2024
   - ACM MM 2024
 - Journal Reviewer
