@@ -10,6 +10,7 @@
   - ACM MM 2024
   - IJCNN 2025
 - Journal Reviewer
+  - IEEE Transactions on Circuits and Systems for Video Technology
   - IEEE Transactions on Geoscience and Remote Sensing
   - IEEE Geoscience and Remote Sensing Letters
   - Knowledge-Based Systems
