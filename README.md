@@ -13,6 +13,7 @@
 - Journal Reviewer
   - IEEE Transactions on Circuits and Systems for Video Technology
   - IEEE Transactions on Geoscience and Remote Sensing
+  - IEEE Signal Processing Letters
   - IEEE Geoscience and Remote Sensing Letters
   - Knowledge-Based Systems
 
