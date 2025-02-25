@@ -8,7 +8,7 @@
   - ECCV 2024
   - ICLR 2025
   - IJCAI 2025
-  - ACM MM 2024
+  - ACM MM 2024-2025
   - IJCNN 2025
 - Journal Reviewer
   - IEEE Transactions on Circuits and Systems for Video Technology
