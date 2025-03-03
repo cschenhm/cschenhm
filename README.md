@@ -16,6 +16,7 @@
   - IEEE Signal Processing Letters
   - IEEE Geoscience and Remote Sensing Letters
   - Knowledge-Based Systems
+  - ACM Transactions on Multimedia Computing, Communications and Applications
 
 <!--
 **cschenhm/cschenhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
