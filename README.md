@@ -9,15 +9,15 @@
   - ICLR 2025
   - IJCAI 2025
   - ACM MM 2024-2025
-  - ECAI 2024
+  - ECAI 2025
   - IJCNN 2025
 - Journal Reviewer
   - IEEE Transactions on Circuits and Systems for Video Technology
   - IEEE Transactions on Geoscience and Remote Sensing
-  - IEEE Signal Processing Letters
-  - IEEE Geoscience and Remote Sensing Letters
   - Knowledge-Based Systems
   - ACM Transactions on Multimedia Computing, Communications and Applications
+  - IEEE Signal Processing Letters
+  - IEEE Geoscience and Remote Sensing Letters
 
 <!--
 **cschenhm/cschenhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
