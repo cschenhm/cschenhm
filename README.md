@@ -3,21 +3,21 @@
 -  I am currently working on Image Deraining.
 ### Academic Services
 - Conference Reviewer
-  - CVPR 2025
-  - ICCV 2025
-  - ECCV 2024
-  - ICLR 2025
-  - IJCAI 2025
-  - ACM MM 2024-2025
-  - ECAI 2025
-  - IJCNN 2025
+  - IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2025)
+  - IEEE International Conference on Computer Vision (ICCV 2025)
+  - European Conference on Computer Vision (ECCV 2024)
+  - International Conference on Learning Representations (ICLR 2025)
+  - International Joint Conference on Artificial Intelligence (IJCAI 2025)
+  - ACM International Conference on Multimedia (ACM MM 2024-2025)
+  - European Conference on Artifical Intelligence (ECAI 2025)
+  - International Joint Conference on Neural Networks (IJCNN 2025)
 - Journal Reviewer
-  - IEEE Transactions on Circuits and Systems for Video Technology
-  - IEEE Transactions on Geoscience and Remote Sensing
-  - Knowledge-Based Systems
-  - ACM Transactions on Multimedia Computing, Communications and Applications
-  - IEEE Signal Processing Letters
-  - IEEE Geoscience and Remote Sensing Letters
+  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+  - Knowledge-Based Systems (KBS)
+  - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
+  - IEEE Signal Processing Letters (SPL)
+  - IEEE Geoscience and Remote Sensing Letters (GRSL)
 
 <!--
 **cschenhm/cschenhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
