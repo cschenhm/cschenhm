@@ -11,6 +11,7 @@
   - International Joint Conference on Artificial Intelligence (IJCAI 2025)
   - ACM International Conference on Multimedia (ACM MM 2024-2025)
   - European Conference on Artifical Intelligence (ECAI 2025)
+  - Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2025)
   - International Joint Conference on Neural Networks (IJCNN 2025)
 - Journal Reviewer
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
