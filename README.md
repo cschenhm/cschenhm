@@ -13,6 +13,7 @@
   - European Conference on Artifical Intelligence (ECAI 2025)
   - Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2025)
   - International Joint Conference on Neural Networks (IJCNN 2025)
+  - IEEE Winter Conference on Applications of Computer Vision (WACV 2026)
 - Journal Reviewer
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
