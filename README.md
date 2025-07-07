@@ -1,6 +1,6 @@
 ### Hi there 👋
 -  I am a Ph.D. student in Computer Science and Technology at Dalian Maritime University, supervised by Prof. Xianping Fu.
--  I am currently working on Image Deraining.
+-  I am currently working on low-level vision.
 -  Welcome to visit our website for low-level vision: https://lowlevelcv.com/
 ### Academic Services
 - Conference Reviewer
