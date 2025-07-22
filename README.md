@@ -9,6 +9,7 @@
   - European Conference on Computer Vision (ECCV 2024)
   - Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
   - International Conference on Learning Representations (ICLR 2025)
+  - AAAI Conference on Artificial Intelligence (AAAI 2026)
   - International Joint Conference on Artificial Intelligence (IJCAI 2025)
   - ACM International Conference on Multimedia (ACM MM 2024-2025)
   - European Conference on Artifical Intelligence (ECAI 2025)
