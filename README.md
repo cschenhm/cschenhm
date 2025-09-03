@@ -24,6 +24,7 @@
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
   - IEEE Signal Processing Letters (SPL)
   - IEEE Geoscience and Remote Sensing Letters (GRSL)
+  - SN Computer Science
 
 <!--
 **cschenhm/cschenhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
