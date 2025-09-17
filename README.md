@@ -22,9 +22,9 @@
   - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
   - Knowledge-Based Systems (KBS)
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
+  - Computer Vision and Image Understanding (CVIU)
   - IEEE Signal Processing Letters (SPL)
   - IEEE Geoscience and Remote Sensing Letters (GRSL)
-  - Computer Vision and Image Understanding
   - SN Computer Science
 
 <!--
