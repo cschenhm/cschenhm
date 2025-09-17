@@ -4,7 +4,7 @@
 -  Welcome to visit our website for low-level vision: https://lowlevelcv.com/
 ### Academic Services
 - Conference Reviewer
-  - IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2025)
+  - IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2025-2026)
   - IEEE International Conference on Computer Vision (ICCV 2025)
   - European Conference on Computer Vision (ECCV 2024)
   - Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
