@@ -24,6 +24,7 @@
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
   - IEEE Signal Processing Letters (SPL)
   - IEEE Geoscience and Remote Sensing Letters (GRSL)
+  - Computer Vision and Image Understanding
   - SN Computer Science
 
 <!--
