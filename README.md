@@ -22,6 +22,7 @@
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
   - Knowledge-Based Systems (KBS)
+  - Engineering Applications of Artificial Intelligence (EAAI)
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
   - Computer Vision and Image Understanding (CVIU)
   - IEEE Signal Processing Letters (SPL)
