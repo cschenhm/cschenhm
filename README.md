@@ -15,7 +15,7 @@
   - European Conference on Artifical Intelligence (ECAI 2025)
   - Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2025)
   - International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)
-  - International Joint Conference on Neural Networks (IJCNN 2025)
+  - International Joint Conference on Neural Networks (IJCNN 2025-2026)
   - ACM Multimedia Asia (MMAsia 2025)
   - IEEE Winter Conference on Applications of Computer Vision (WACV 2026)
 - Journal Reviewer
