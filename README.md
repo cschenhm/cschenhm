@@ -25,10 +25,12 @@
   - ISPRS Journal of Photogrammetry and Remote Sensing (PHOTO)
   - Engineering Applications of Artificial Intelligence (EAAI)
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
+  - Optics and Laser Technology (JOLT)
   - Computer Vision and Image Understanding (CVIU)
   - Pattern Recognition Letters (PRL)
   - IEEE Signal Processing Letters (SPL)
   - IEEE Geoscience and Remote Sensing Letters (GRSL)
+  - Journal of Systems Architecture (JSA)
   - SN Computer Science
 
 <!--
