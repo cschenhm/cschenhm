@@ -26,6 +26,7 @@
   - Engineering Applications of Artificial Intelligence (EAAI)
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
   - Optics and Laser Technology (JOLT)
+  - Neurocomputing (NEUCOM)
   - Computer Vision and Image Understanding (CVIU)
   - Pattern Recognition Letters (PRL)
   - IEEE Signal Processing Letters (SPL)
