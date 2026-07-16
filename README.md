@@ -25,6 +25,7 @@
   - ISPRS Journal of Photogrammetry and Remote Sensing (PHOTO)
   - Engineering Applications of Artificial Intelligence (EAAI)
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
+  - Ocean Engineering (OE)
   - Optics and Laser Technology (JOLT)
   - Neurocomputing (NEUCOM)
   - Computer Vision and Image Understanding (CVIU)
