@@ -21,6 +21,7 @@
 - Journal Reviewer
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+  - Pattern Recognition (PR)
   - Knowledge-Based Systems (KBS)
   - ISPRS Journal of Photogrammetry and Remote Sensing (PHOTO)
   - Engineering Applications of Artificial Intelligence (EAAI)
